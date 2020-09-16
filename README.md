@@ -1,0 +1,2 @@
+# class-activities
+class activities
